@@ -1,0 +1,8 @@
+*.out
+*.exe
+*.log
+output
+cleanfpl
+clean
+file
+outfpl
